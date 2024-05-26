@@ -1,1 +1,1 @@
-[![Coverage Status](https://coveralls.io/repos/github/Maxxx321/lab05/badge.svg?branch=main)](https://coveralls.io/github/Maxxx321/lab05?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/nidhegg-leviathan/lab05/badge.svg?branch=main)](https://coveralls.io/github/nidhegg-leviathan/lab05?branch=main)
